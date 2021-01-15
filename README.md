@@ -1,9 +1,9 @@
 ## :eyeglasses: Hello There :eyeglasses:
 
-
-- 🔭 I’m currently working on [Queue System for Orakel - Oslomet](https://github.com/OrakelOsloMet/Orakel_Queue_Client)
-- 🌱 I’m currently learning TypeScript and Kotlin
-- 📫 How to reach me: fredrikhp@gmail.com || fredrik.a.pedersen@tietoevry.com
+- :factory: I am employed as a full stack developer at [TietoEvry](https://github.com/evry) 
+- 🔭 Privately I’m currently working on [Queue System for Orakel - Oslomet](https://github.com/OrakelOsloMet/Orakel_Queue_Client)
+- 🌱 I am currently learning TypeScript and Kotlin
+- 📫 How to reach me: fredrikhp@gmail.com or fredrik.a.pedersen@tietoevry.com
 
 ### Tools and Languages
 
