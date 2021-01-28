@@ -6,9 +6,7 @@
 - 🌱 I am currently learning TypeScript and Kotlin
 - 📫 How to reach me: fredrikhp@gmail.com or fredrik.a.pedersen@tietoevry.com
 
-### Tools and Languages
-
-**Tools & Languages**
+### :hammer: Tools and Languages :wrench:
 
 <p align="center">
   <img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
@@ -26,7 +24,7 @@
 
 </br>
 
-## :trophy: My Github Stats:
+## :trophy: My Github Stats :trophy:
 <div>
   <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=tokyonight">
     <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=tokyonight" />
