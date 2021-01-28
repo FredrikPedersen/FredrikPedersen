@@ -20,12 +20,18 @@
   <img alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
   <img alt="PosgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 
-  <img align="left" alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
-  <img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />  
+  <img alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+  <img alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />  
 </p>
 
 </br>
 
 ## :trophy: My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FredrikPedersen&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredrikPedersen&theme=tokyonight)
+<div>
+  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=tokyonight">
+    <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FredrikPedersen&hide=php&theme=tokyonight">
+    <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FredrikPedersen&hide=php&theme=tokyonight" />
+  </a>
+</div>
