@@ -10,16 +10,16 @@
 
 <p align="left">
   <img alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-  <img alt="Spring boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
-  <img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-  <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-  <img alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img alt="PosgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Spring boot" width="40px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+  <img alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Redux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+  <img alt="Pyhton" width="40px" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img alt="PosgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 
-  <img alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
-  <img alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />  
+  <img alt="IntelliJ" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+  <img alt="PyCharm" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png" />  
 </p>
 
 </br>
