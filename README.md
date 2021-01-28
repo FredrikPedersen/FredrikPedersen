@@ -5,7 +5,7 @@
 - :school: BSc in [Software Engineering](https://www.oslomet.no/studier/tkd/dataingenior) from Oslo Metropolitan University - Class of 2020
 - :factory: I am employed as a full stack developer at [TietoEvry](https://github.com/evry) 
 - 🔭 Privately I am currently working on [Queue System for Orakel - Oslomet](https://github.com/OrakelOsloMet/Orakel_Queue_Client)
-- 🌱 I am currently learning TypeScript and Kotlin
+- 🌱 I am currently learning Kotlin
 - 📫 How to reach me: fredrikhp@gmail.com or fredrik.a.pedersen@tietoevry.com
 
 </br>
