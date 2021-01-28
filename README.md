@@ -31,10 +31,10 @@
 </br>
 
 <div>
-  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=tokyonight">
-    <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=tokyonight" />
+  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=dark">
+    <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=dark" />
   </a>
-  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FredrikPedersen&hide=php&theme=tokyonight">
-    <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FredrikPedersen&hide=php&theme=tokyonight" />
+  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FredrikPedersen&hide=php&theme=dark">
+    <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FredrikPedersen&hide=php&theme=dark" />
   </a>
 </div>
