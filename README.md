@@ -9,7 +9,7 @@
 ### :hammer: Tools and Languages :wrench:
 
 <p align="left">
-  <img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
   <img alt="Spring boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
   <img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
