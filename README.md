@@ -6,7 +6,7 @@
 - 🌱 I am currently learning TypeScript and Kotlin
 - 📫 How to reach me: fredrikhp@gmail.com or fredrik.a.pedersen@tietoevry.com
 
-## :hammer: Tools and Languages :wrench:
+## :hammer: Tools and Languages
 
 </br>
 
@@ -26,7 +26,7 @@
 
 </br>
 
-## :trophy: My Github Stats :trophy:
+## :trophy: My Github Stats
 
 </br>
 
