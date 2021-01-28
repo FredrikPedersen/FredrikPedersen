@@ -8,7 +8,7 @@
 
 ### :hammer: Tools and Languages :wrench:
 
-<p align="center">
+<p align="left">
   <img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
   <img alt="Spring boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
   <img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
