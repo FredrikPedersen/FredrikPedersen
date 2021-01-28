@@ -1,4 +1,4 @@
-## :eyeglasses: Hello There :eyeglasses:
+# :eyeglasses: Hello There :eyeglasses:
 
 - :school: BSc in [Software Engineering](https://www.oslomet.no/studier/tkd/dataingenior) from Oslo Metropolitan University - Class of 2020
 - :factory: I am employed as a full stack developer at [TietoEvry](https://github.com/evry) 
@@ -6,7 +6,9 @@
 - 🌱 I am currently learning TypeScript and Kotlin
 - 📫 How to reach me: fredrikhp@gmail.com or fredrik.a.pedersen@tietoevry.com
 
-### :hammer: Tools and Languages :wrench:
+## :hammer: Tools and Languages :wrench:
+
+</br>
 
 <p align="left">
   <img alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
@@ -25,6 +27,9 @@
 </br>
 
 ## :trophy: My Github Stats :trophy:
+
+</br>
+
 <div>
   <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=tokyonight">
     <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FredrikPedersen&count_private=true&show_icons=true&theme=tokyonight" />
