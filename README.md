@@ -3,7 +3,7 @@
 </br>
 
 - :school: BSc in [Software Engineering](https://www.oslomet.no/studier/tkd/dataingenior) from Oslo Metropolitan University - Class of 2020
-- :factory: I am employed as a full stack developer at [TietoEvry](https://github.com/evry) 
+- :factory: I am employed as a full stack developer at [TietoEvry](https://www.tietoevry.com/) 
 - 🔭 Privately I am currently working on [Queue System for Orakel - Oslomet](https://github.com/OrakelOsloMet/Orakel_Queue_Client)
 - 🌱 I am currently learning Kotlin and improving my skills in React/Typescript and Spring/Java.
 - 📫 How to reach me: fredrikhp@gmail.com or fredrik.a.pedersen@tietoevry.com
